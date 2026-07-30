@@ -36,3 +36,16 @@ samples, guidance on mobile development, and a full API reference.
     ├── testimonials_section.dart
     ├── contact_section.dart
     └── footer_section.dart
+
+
+-------------------- COMMANDS POUR LE DEPLOYEMENT --------------------
+# CMD BASH - Initialiser le hosting
+- firebase init hosting
+# CMD BASH - Appliquer un targ ou spéficie le le projet
+- firebase target:apply hosting beraca beracaplus
+# CMD BASH - Construire le build
+- flutter build web
+# CMD BASH - Deployment
+- firebase deploy --only hosting:beraca
+# Firebase Hosting URL:
+[https://beracaplus.web.app](https://beracaplus.web.app)

@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "epbomie"
+  },
+  "targets": {
+    "epbomie": {
+      "hosting": {
+        "beraca": [
+          "beracaplus"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
