@@ -1,7 +1,7 @@
 {
   "hosting": {
     "target": "beraca",
-    "public": "y",
+    "public": "build/web",
     "ignore": [
       "firebase.json",
       "**/.*",
